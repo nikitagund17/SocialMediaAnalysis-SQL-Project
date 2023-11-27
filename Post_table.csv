@@ -1,0 +1,51 @@
+﻿post_id,user_id,post_text,post_date,likes,comments,shares
+1,1,"Hello, this is my post!",20-01-2021,50,10,5
+2,2,Enjoying a beautiful day,25-02-2021,80,15,10
+3,3,New adventure begins!,15-03-2021,120,25,15
+4,4,My latest photo,30-04-2021,30,5,2
+5,5,Exciting news to share,08-05-2021,70,12,8
+6,6,Traveling to new places,19-06-2021,110,20,12
+7,7,Delicious food tonight,05-07-2021,65,8,6
+8,8,Movie night with friends,15-08-2021,95,18,11
+9,9,Latest project update,22-09-2021,40,7,4
+10,10,Weekend getaway,09-10-2021,60,11,7
+11,11,Morning coffee,18-11-2021,45,9,5
+12,12,New recipe to try,23-12-2021,75,14,9
+13,13,Road trip adventure,12-01-2022,95,17,10
+14,14,Celebrating a milestone,14-02-2022,120,22,14
+15,15,Sunday relaxation,10-03-2022,55,10,6
+16,16,Family time at the park,02-04-2022,85,16,8
+17,17,Music festival fun,20-05-2022,110,19,12
+18,18,Hiking in the mountains,05-06-2022,40,8,4
+19,19,Trying a new hobby,13-07-2022,70,12,7
+20,20,Relaxing by the beach,17-08-2022,100,15,10
+21,21,Visiting historical site,09-09-2022,130,25,15
+22,22,Gardening update,28-10-2022,90,14,9
+23,23,Art and creativity,15-11-2022,70,11,6
+24,24,Winter holiday plans,20-12-2022,80,13,7
+25,25,Festival highlights,05-01-2023,105,20,12
+26,26,Road to fitness,11-02-2023,50,10,5
+27,27,DIY home improvement,17-03-2023,75,14,9
+28,28,Springtime adventures,09-04-2023,90,17,10
+29,29,New art project,19-05-2023,120,22,14
+30,30,Celebrating a birthday,26-06-2023,65,11,6
+31,31,Weekend road trip,11-07-2023,85,16,8
+32,32,Cooking with friends,05-08-2023,110,19,12
+33,33,Mountain biking fun,01-09-2023,40,8,4
+34,34,Sunset at the beach,16-10-2023,70,12,7
+35,35,Art exhibition visit,28-11-2023,100,15,10
+36,36,Exploring a new city,10-12-2023,130,25,15
+37,37,Winter holiday plans,15-01-2023,90,14,9
+38,38,Springtime adventures,23-02-2023,70,11,6
+39,39,New art project,28-03-2022,80,13,7
+40,40,Celebrating a birthday,14-04-2021,105,20,12
+41,41,Weekend road trip,30-05-2022,50,10,5
+42,42,Cooking with friends,18-06-2023,75,14,9
+43,43,Mountain biking fun,24-07-2022,90,17,10
+44,44,Sunset at the beach,19-08-2021,120,22,14
+45,45,Art exhibition visit,21-09-2023,65,11,6
+46,46,Exploring a new city,13-10-2022,85,16,8
+47,47,Coffee and books,07-11-2021,110,19,12
+48,48,Winter vacation plans,03-12-2022,40,8,4
+49,49,Beach getaway,23-02-2023,75,15,9
+50,50,Art exhibition visit,10-12-2023,52,9,5
